@@ -1,4 +1,4 @@
-# Neural Machine Translation using Encoder-Decoder Model
+# Attention-based Encoder-Decoder Model for Neural Machine Translation
 
 This repository contains a machine translation model that translates Farsi text to English using an encoder-decoder
 architecture.
